@@ -1,0 +1,39 @@
+---
+layout: page
+---
+
+
+    {% for post in paginator.posts %}
+<div id="box1" class="box-style1">
+	<!-- {{ post.date | date: "%b %-d, %Y" }} //-->
+	<a href="{{ post.url | prepend: site.baseurl }}"><h2 class="title">{{ post.title }}</h2></a>
+  <div class="entry">
+	  <!--
+    <div class="image-style2 image-style2a"><a href="/items/<%= i.name %>"><img src="/images/<%= i.thumb.name %>/thumb" alt="<%= i.thumb.title %>" title="<%= i.thumb.description %>" width="150" /><span></span></a></div>
+    //-->
+	  <p>{{ post.perex }}</p>
+    <div class="meta">
+	    <p><span class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">podrobný popis</a></span></p>
+    </div>
+  </div>
+</div>
+
+<!-- Pagination links -->
+<div id="box2" class="pagination box-style1">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Předchozí strana</a>
+  {% else %}
+    <span class="previous">Předchozí strana</span>
+  {% endif %}
+  <span class="page_number ">Strana {{ paginator.page }} z {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Další strana</a>
+  {% else %}
+    <span class="next ">Další strana</span>
+  {% endif %}
+</div>
+
+<div class="divider">&nbsp;</div>
+
+    {% endfor %}
+

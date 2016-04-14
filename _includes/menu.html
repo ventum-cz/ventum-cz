@@ -1,0 +1,29 @@
+		<div id="sidebar">
+			<div id="box4" class="box-style2">
+				<h2 class="title">Služby</h2>
+				<div class="entry">
+					<p>Na realitním trhu aktivně působíme již od roku 1998 a poskytujeme našim klientům kompletní realitní servis. Všechny naše nabídky jsou osobně prověřeny, právní služby pro klienty zajišťuje vždy renomovaná advokátní kancelář. </p>
+				</div>
+			</div>
+
+			<div id="box5" class="box-style2">
+				<h2 class="title">Nálepky</h2>
+				<div class="entry">
+					<ul class="style2">
+						{% for t in site.tags %}
+						<li><a href="/tag/{{ t | first | slugize }}.html">{{ t | first }}</a></li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+
+			<div id="box6" class="box-style2">
+				<h2 class="title">Naše další weby</h2>
+				<div class="entry">
+					<ul class="style2">
+						<li class="first"><a href="http://www.brno-art.cz">ventum art</a></li>
+						<li><a href="/casereview">ventum pocitace</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
