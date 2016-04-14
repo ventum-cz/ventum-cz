@@ -24,4 +24,6 @@ gems:
 
 paginate: 6
 markdown: kramdown
+exclude: [vendor, script, Gemfile, .travis.yml]
+
 
