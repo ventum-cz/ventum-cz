@@ -11,7 +11,7 @@ layout: page
 	  <!--
     <div class="image-style2 image-style2a"><a href="/items/<%= i.name %>"><img src="/images/<%= i.thumb.name %>/thumb" alt="<%= i.thumb.title %>" title="<%= i.thumb.description %>" width="150" /><span></span></a></div>
     //-->
-	  <p>{{ post.perex }}</p>
+	  {{ post.excerpt }}
     <div class="meta">
 	    <p><span class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">podrobný popis</a></span></p>
     </div>
