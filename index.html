@@ -8,9 +8,9 @@ layout: page
 	<!-- {{ post.date | date: "%b %-d, %Y" }} //-->
 	<a href="{{ post.url | prepend: site.baseurl }}"><h2 class="title">{{ post.title }}</h2></a>
   <div class="entry">
-	  <!--
-    <div class="image-style2 image-style2a"><a href="/items/<%= i.name %>"><img src="/images/<%= i.thumb.name %>/thumb" alt="<%= i.thumb.title %>" title="<%= i.thumb.description %>" width="150" /><span></span></a></div>
-    //-->
+    {% if page.nahled %}
+    <div class="image-style2 image-style2a"><a href="{{ post.url | prepend: site.baseurl }}">{% thumbnail page.nahled 150x150< %}<span></span></a></div>
+    {% endif %}
 	  {{ post.excerpt }}
     <div class="meta">
 	    <p><span class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">podrobný popis</a></span></p>
