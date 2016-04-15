@@ -1,7 +1,9 @@
 ---
 title: "Prodej pozemku 48m2 Brno - Obřany"
-nahled: "images/pozemek_obrany_1.jpg"
-tags: prodej
+nahled: images/pozemek_obrany_1.jpg
+tags: 
+  - prodej
+published: true
 ---
 
 Pozemek o výměře 48 m2 se nachází v blízkosti ulice Cihelní, kousek od železniční tratě. Přístup k němu je po obecní komunikaci. 
@@ -21,4 +23,4 @@ Cena 800 Kč/m2, celkem 38400 Kč.
 Cena 38400 Kč je včetně všech služeb, daň platí prodávající.
 
 ![Zahrada](/images/pozemek_obrany_1.jpg)
-
+![Foto]({{site.baseurl}}/images/image4405.jpg)
