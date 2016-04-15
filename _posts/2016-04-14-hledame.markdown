@@ -1,6 +1,5 @@
 ---
-title:  Hledáme
-date:   2016-04-14 23:47:09 +0200
+title: "Hledáme"
 tags: hledame lupa
 ---
 

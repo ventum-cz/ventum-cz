@@ -12,6 +12,7 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 before_script:
+ - apt-get install imagemagick libmagickwand-dev
  - chmod +x ./script/cibuild # or do this locally and commit
 
 # Assume bundler is being used, therefore
