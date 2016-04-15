@@ -4,22 +4,54 @@
     <title>Ventum, s.r.o.</title>
     <description>Na realitním trhu aktivně působíme již od roku 1998 a poskytujeme našim klientům kompletní realitní servis. Všechny naše nabídky jsou osobně prověřeny, právní služby pro klienty zajišťuje vždy renomovaná advokátní kancelář.
 </description>
-    <link>https://www.ventum.net/</link>
-    <atom:link href="https://www.ventum.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Apr 2016 06:25:20 +0000</pubDate>
-    <lastBuildDate>Fri, 15 Apr 2016 06:25:20 +0000</lastBuildDate>
+    <link>https://ventum-cz.github.io/</link>
+    <atom:link href="https://ventum-cz.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Apr 2016 09:09:16 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Apr 2016 09:09:16 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Prodej pozemku 48m2 Brno - Obřany</title>
+        <description>&lt;p&gt;Pozemek o výměře 48 m2 se nachází v blízkosti ulice Cihelní, kousek od železniční tratě. Přístup k němu je po obecní komunikaci.&lt;/p&gt;
+
+&lt;p&gt;V KN je veden jako zahrada, v současnéí době nevyužíván.&lt;/p&gt;
+
+&lt;p&gt;V územním plánu je veden jako plocha nestavební.&lt;/p&gt;
+
+&lt;p&gt;Na pozemku nejsou inženýrské sítě, kromě elektřiny jsou sítě poměrně daleko.&lt;/p&gt;
+
+&lt;p&gt;Šířka pozemku u cesty cca 5,9 m, v horní části cca 4 m, délka v průměru 9,7 m.&lt;/p&gt;
+
+&lt;p&gt;Pozemek může sloužit na umístění mobilních věcí nebo jej lze upravit na zahradu.&lt;/p&gt;
+
+&lt;p&gt;Cena 800 Kč/m2, celkem 38400 Kč.&lt;/p&gt;
+
+&lt;p&gt;Cena 38400 Kč je včetně všech služeb, daň platí prodávající.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pozemek_obrany_1.jpg&quot; alt=&quot;Zahrada&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+        <link>https://ventum-cz.github.io/2016/04/15/pozemek-brno-obrany.html</link>
+        <guid isPermaLink="true">https://ventum-cz.github.io/2016/04/15/pozemek-brno-obrany.html</guid>
+        
+        <category>prodej</category>
+        
+        
+      </item>
     
       <item>
         <title>Hledáme</title>
         <description>&lt;p&gt;POZEMKY V BRNĚ A OKOLÍ - větší lokality na výstavbu rodinných domů, na pěkných místech&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 14 Apr 2016 21:47:09 +0000</pubDate>
-        <link>https://www.ventum.net/2016/04/14/hledame.html</link>
-        <guid isPermaLink="true">https://www.ventum.net/2016/04/14/hledame.html</guid>
+        <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+        <link>https://ventum-cz.github.io/2016/04/14/hledame.html</link>
+        <guid isPermaLink="true">https://ventum-cz.github.io/2016/04/14/hledame.html</guid>
         
         <category>hledame</category>
+        
+        <category>lupa</category>
         
         
       </item>
