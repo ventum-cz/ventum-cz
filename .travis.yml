@@ -2,6 +2,14 @@ language: ruby
 rvm:
 - 2.1
 
+env:
+  global:
+    - "GIT_NAME=Travis CI build"
+    - "GIT_EMAIL=info@ventum.net"
+    - "SOURCE_DIR=_site"
+    - "DEPLOY_BRANCH=source"
+    - "SSH_KEY=deploy.key"
+
 before_script:
  - chmod +x ./script/cibuild # or do this locally and commit
 
@@ -20,4 +28,9 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 sudo: false # route your build to the container-based infrastructure for a faster build
+
+after_success:
+  - openssl aes-256-cbc -K $encrypted_18bfbb31fb54_key -iv $encrypted_18bfbb31fb54_iv -in deploy.key.enc -out deploy.key -d
+  - echo www.ventum.net > _site/CNAME
+  - bash scripts/deploy.sh
 
