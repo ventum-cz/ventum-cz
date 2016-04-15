@@ -32,5 +32,5 @@ sudo: false # route your build to the container-based infrastructure for a faste
 after_success:
   - openssl aes-256-cbc -K $encrypted_18bfbb31fb54_key -iv $encrypted_18bfbb31fb54_iv -in deploy.key.enc -out deploy.key -d
   - echo www.ventum.net > _site/CNAME
-  - bash scripts/deploy.sh
+  - bash script/deploy.sh
 
