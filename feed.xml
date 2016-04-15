@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ventum, s.r.o.</title>
+    <description>Na realitním trhu aktivně působíme již od roku 1998 a poskytujeme našim klientům kompletní realitní servis. Všechny naše nabídky jsou osobně prověřeny, právní služby pro klienty zajišťuje vždy renomovaná advokátní kancelář.
+</description>
+    <link>https://www.ventum.net/</link>
+    <atom:link href="https://www.ventum.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Apr 2016 00:57:54 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Apr 2016 00:57:54 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Hledáme</title>
+        <description>&lt;p&gt;POZEMKY V BRNĚ A OKOLÍ - větší lokality na výstavbu rodinných domů, na pěkných místech&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Apr 2016 21:47:09 +0000</pubDate>
+        <link>https://www.ventum.net/2016/04/14/hledame.html</link>
+        <guid isPermaLink="true">https://www.ventum.net/2016/04/14/hledame.html</guid>
+        
+        <category>hledame</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
