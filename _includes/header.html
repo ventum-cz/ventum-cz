@@ -6,7 +6,7 @@
 		<div id="menu">
 			<ul>
 				<li class=""><a href="/" accesskey="1" title=""><span>domů</span></a></li>
-				<li class=""><a href="/tag/reference" accesskey="2" title=""><span>reference</span></a></li>
+				{% if site.tags.reference %}<li class=""><a href="/tag/reference" accesskey="2" title=""><span>reference</span></a></li>{% endif %}
 				<li class=""><a href="/onas" accesskey="3" title=""><span>o nás</span></a></li>
 				<li class=""><a href="/english" accesskey="4" title=""><span>english</span></a></li>
 				<li><a href="http://www.facebook.com/pages/VENTUM-sro-reality-na-urovni/359389999855?ref=ts&v=wall" accesskey="5" title=""><span>facebook</span></a></li>
