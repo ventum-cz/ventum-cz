@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   osobně prověřeny, právní služby pro klienty zajišťuje vždy renomovaná
   advokátní kancelář.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ventum.net" # the base hostname & protocol for your site
+url: "https://ventum-cz.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  ventum
 
