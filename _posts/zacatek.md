@@ -1,0 +1,36 @@
+---
+title: "Začátek"
+nahled: images/pozemek_obrany_1.jpg
+tags: 
+  - prodej
+published: true
+---
+
+Vítám Vás na svých stránkách. Na úvod jsem pro vás napsala několik slov o sobě.
+
+V roce 1983 jsem ukončila studium na  lesnické fakultě VŠZ (dnešní Mendelova univerzita v Brně) . Po škole jsem nastoupila do zaměstnání ve svém oboru, mimo Brno. Po pěti letech mě nepříznivá osobní situace i pracovní poměry, kde jsem již  neměla možnost dalšího růstu, přiměla k tomu, vrátit se zpět do Brna. Měla jsem tehdy příležitost pracovat na Magistrátu města Brna na oddělení hospodářského rozvoje, kde jsem se seznámila s problematikou nemovitostí a podílela se na výběrových řízeních na majetku města, pronájmech, na zpracování podkladů pro tato řízení.
+
+V roce 1998, kdy zde nastaly personální změny, jsem se rozhodla, že se postavím na vlastní nohy. Vybavena základními znalosti z tohoto zaměstnání jsem se začala zabývat nemovitostmi soukromě. Nejdříve jsem pracovala na živnostenský list, později až dosud pod hlavičkou svého VENTUM, s.r.o. Tento název vychází z latinského ventus  - což znamená vítr, ale tohoto názvu využilo již několik firem, proto jsem zvolila název s koncovkou „um“ jedná se o třetí pád slova vítr. A tím je obrazně myšleno „dobrý vítr pro všechny“.
+
+Až dosud jsem prodávala a pronajímala nemovitosti, vše jsem řešila osobně, ve spolupráci s advokátní kanceláří. Klientům, kteří mají s realitními kancelářemi špatné zkušenosti s dovolením sdělím, že ani práce na druhé straně není vždy snadná. Každý případ je jiný, každý případ vyžaduje plné nasazení, zodpovědnost, osobní přístup, empatii a v neposlední řadě znalosti a ochotu kdykoli jednat a řešit aktuální potřeby toho kterého případu, tedy klienta. Řešila jsem zakázky od těch nejmenších pronájmů až po přípravu a prodej lokalit pro bydlení, zde samozřejmě ve spolupráci s architektonickou a projekční kanceláří. S klienty, kterým se starám o majetek, ať jej kupují nebo prodávají, hlavně hodně komunikuji a odpovídám na vše, co v průběhu jejich záměru vyvstane k řešení. Jsou to mnohdy osobní záležitosti i emoce, které se při těchto obchodních jednáních projevují téměř vždy, jen někdy méně a někdy více.
+
+Za tuto dlouho dobu jsem si ponechala svoji identitu a samostatnost a troufám si tvrdit, že zejména spolehlivost. 
+
+A tak jsem se dostala k tomu, že Vám, milí klienti, chci nabídnout také konzultační službu, která v současné době bude mou hlavní činností. 
+
+Co tím přesně myslím?  Někteří klienti, kteří ke mně přijdou do kanceláře, nemívají ještě přesnou představu, co chtít, v jakém míře své potřeby řešit. Komunikací s třetí osobou si často na své otázky odpoví, uvědomí si, co je pro ně podstatné, co není, uvědomí si realitu obchodu, reálné možnosti na trhu. Je pochopitelné, pokud si klient není jistý svým záměrem a stále o něm přemýšlí, že je dobré vše pojmenovat, vyslovit, dát celému záměru reálnou podobu. Někdy se stává, že si klient i uvědomí, že jeho představa by byla nad jeho možnosti a od záměru i upustí, někdy si zase ujasní, jaké místo pro jeho život bude pro něj nejvhodnější nebo i jaký typ nemovitosti vzhledem k jeho životnímu tempu a životní fázi. Jedná se vesměs o konzultace, které jsou směsí různých aspektů, od finančních až po ty nejjemnější, jako jsou rodinné vztahy, sociální potřeby, schopnost změny.
+
+Konzultaci je možné uskutečnit  také společně s renomovaným odborníkem na právo a daně, vztahující se k nemovitostem.
+
+Věřím, že se Vám před tak důležitým krokem, jako je koupě či prodej nemovitosti, tato konzultace vyplatí.
+
+Vážení klienti, pokud jste dočetli až sem na konec, tak Vám děkuji za Váš čas a pokud budete chtít využít ten můj, ráda se s Vámi setkám ve své kanceláři.
+
+Přeji Vám dobré rozhodování ve vašem realitním záměru a ten dobrý vítr k tomu J.
+
+ S úctou
+
+ 
+
+Ing.Libuše Jindrová
+jednatelka
