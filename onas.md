@@ -4,18 +4,18 @@ title: O nás
 permalink: /onas/
 ---
 
-```
+
 VENTUM, s.r.o. 
 IČ: 25520601 
 DIČ: CZ25520601 
 OR: Krajský soud v Brně, C-29384 
-```
+
 
 ## Adresa 
-```
+
 Příkop 843/4 
 602 00 Brno 
-```
+
 
 ## Kontakty 
 * Tel./Fax: +420 514 144 666 
