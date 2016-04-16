@@ -5,7 +5,7 @@ permalink: /onas/
 ---
 
 
-###VENTUM, s.r.o. 
+### VENTUM, s.r.o. 
 IČ: 25520601  
 DIČ: CZ25520601  
 OR: Krajský soud v Brně, C-29384  
