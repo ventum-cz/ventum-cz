@@ -1,7 +1,8 @@
 ---
 nahled: ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 ---
 #Historie
 
@@ -31,4 +32,3 @@ S úctou
 
 Ing.Libuše Jindrová
 jednatelka
-
