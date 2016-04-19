@@ -90,7 +90,7 @@ hr {
 
 #logo {
 	float: left;
-	width: 420px;
+	width: 500px;
 	height: 209px;
 }
 
@@ -131,7 +131,7 @@ hr {
 
 #menu {
 	float: right;
-	width: 600px;
+	width: 520px;
 	height: 209px;
 }
 
@@ -233,6 +233,11 @@ hr {
 #sidebar {
 	float: right;
 	width: 325px;
+	color: #bbb;
+}
+
+#sidebar a {
+	color: white;
 }
 
 /** FOOTER */
