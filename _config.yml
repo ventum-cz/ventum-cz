@@ -24,6 +24,11 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
 
 # Build settings
 gems:
@@ -60,6 +65,8 @@ prose:
           options:
             - name: "Prodej"
               value: "prodej"
+            - name: "Hledáme"
+              value: "hledame"
             - name: "Reference"
               value: "reference"
             - name: "Hlavní stránka"
