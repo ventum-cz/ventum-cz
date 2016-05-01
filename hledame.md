@@ -1,1 +1,7 @@
-hledame kde co
+---
+layout: page
+title: Hledáme
+permalink: /hledame/
+---
+
+hledame hledame
